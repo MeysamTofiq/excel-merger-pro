@@ -1,0 +1,14 @@
+# بیلد
+build/
+dist/
+distold V/
+distold*/
+__pycache__/
+*.spec
+
+# بسته‌ها
+*.rar
+*.7z
+
+# سیستم
+Thumbs.db
